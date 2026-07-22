@@ -55,5 +55,3 @@ elif distance_mi > 6 and has_car:
 
 elif distance_mi > 6 and (not has_car or not has_ride_share_app):
     print("False")
-
-    print ("Github test")
